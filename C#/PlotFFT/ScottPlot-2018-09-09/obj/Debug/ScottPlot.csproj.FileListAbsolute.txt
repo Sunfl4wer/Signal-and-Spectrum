@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\bin\Debug\ScottPlot.dll
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\bin\Debug\ScottPlot.pdb
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\obj\Debug\ScottPlot.ScottPlotUC.resources
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\obj\Debug\ScottPlot.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\obj\Debug\ScottPlot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\obj\Debug\ScottPlot.dll
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\obj\Debug\ScottPlot.pdb
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-09-19_microphone_FFT_revisited\ScottPlotMicrophoneFFT\ScottPlot-2018-09-09\obj\Debug\ScottPlot.csprojResolveAssemblyReference.cache

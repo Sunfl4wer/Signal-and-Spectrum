@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.xml
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\spectrograph.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\spectrograph.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\spectrograph.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Csharp-Data-Visualization-master\projects\18-01-11_microphone_spectrograph\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
